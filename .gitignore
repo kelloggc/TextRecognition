@@ -1,0 +1,8 @@
+warp-ctc
+pykaldi
+env
+data
+*.pyc
+*.png
+*.jpg
+**/.DS_STORE/**
